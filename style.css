@@ -1,0 +1,36 @@
+body{
+    background-color: bisque
+}
+h1{
+background: #000;
+color: white;
+}
+h2{
+    background-color: blue;
+    color: wheat
+
+}
+.pierwszy{ 
+background-color: gold
+}
+.drugi{
+background-color: greenyellow
+}
+nav{
+    background-color: lightcoral
+}
+#jeden{
+color: blueviolet;
+}
+#dwa{
+    color: turquoise;
+}
+#trzy{
+color: steelblue;
+}
+#cztery{
+color: darkgreen;
+}
+#pięć{
+color: blanchedalmond
+}
