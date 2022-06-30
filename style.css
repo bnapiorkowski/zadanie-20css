@@ -13,24 +13,31 @@ h2{
 .pierwszy{ 
 background-color: gold
 }
+
 .drugi{
 background-color: greenyellow
 }
+
 nav{
     background-color: lightcoral
 }
+
 #jeden{
 color: blueviolet;
 }
+
 #dwa{
     color: turquoise;
 }
+
 #trzy{
 color: steelblue;
 }
+
 #cztery{
 color: darkgreen;
 }
-#pięć{
+
+#piec{
 color: blanchedalmond
 }
